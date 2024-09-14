@@ -1,0 +1,9 @@
+print a 3D map in 2D window 
+
+make : ( - ) : zoom out
+       ( + ) : zoom in
+
+       ( 1 ) : red color
+       ( 2 ) : green color
+       ( 3 ) : blue color
+ 
